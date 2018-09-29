@@ -1,0 +1,82 @@
+#title
+{
+	-fx-background-color: rgb(77, 114, 140);
+	-fx-font-family: papyrus;
+	-fx-font-size: 24;
+	-fx-text-fill: white;
+}
+
+#top
+{
+	-fx-background-color: rgb(77, 114, 140);
+	-fx-border-color: red;
+	-fx-border-width: 2;
+}
+
+#label
+{
+	-fx-font-family: papyrus;
+	-fx-font-size: 13;
+	-fx-text-fill: white;
+}
+
+#menu
+{
+	-fx-graphic: url('menu.png');
+	-fx-padding: 0 0 0 0;
+}
+
+#paused
+{
+	-fx-font-family: Papyrus;
+	-fx-font-size: 16;
+	-fx-padding: 10 10 10 10;
+	-fx-text-fill: white;
+}
+
+#resume
+{
+	-fx-border-color: red;
+	-fx-border-radius: 5;
+	-fx-border-width: 2;
+	-fx-graphic: url('resume.png');
+	-fx-padding: 0 0 0 0;
+}
+
+#restart
+{
+	-fx-border-color: red;
+	-fx-border-radius: 5;
+	-fx-border-width: 2;
+	-fx-graphic: url('restart.png');
+	-fx-padding: 0 0 0 0;
+}
+
+#exit
+{
+	-fx-border-color: red;
+	-fx-border-radius: 5;
+	-fx-border-width: 2;
+	-fx-graphic: url('exit.png');
+	-fx-padding: 0 0 0 0;
+}
+
+#white
+{
+	-fx-background-color: white;
+}
+
+#egg
+{
+	-fx-graphic: url('egg.png');
+}
+
+#bowl
+{
+	-fx-graphic: url('bowl.png');
+}
+
+#egg_break
+{
+	-fx-graphic: url('egg_break.png');
+}
